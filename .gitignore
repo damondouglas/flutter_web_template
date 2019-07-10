@@ -1,0 +1,5 @@
+.idea
+pubspec.lock
+.dart_tool
+.packages
+.metadata
