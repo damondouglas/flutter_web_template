@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/foundation.dart","flutter_web|lib/material.dart","provider_web|lib/provider_web.dart","example|lib/font_awesome_icons.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
