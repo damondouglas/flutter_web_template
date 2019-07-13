@@ -18,5 +18,13 @@
         "weight": 700
       }
     ]
+  },
+  {
+    "family": "FontAwesome",
+    "fonts": [
+      {
+        "asset": "fonts/FontAwesome.ttf"
+      }
+    ]
   }
 ]

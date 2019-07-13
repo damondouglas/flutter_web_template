@@ -2,6 +2,7 @@
 import 'package:flutter_web/foundation.dart';
 import 'package:flutter_web/material.dart';
 import 'package:provider_web/provider_web.dart';
+import 'font_awesome_icons.dart';
 
 void main() => runApp(MyApp());
 
@@ -114,6 +115,7 @@ class CounterLabel extends StatelessWidget {
           '${counter.count}',
           style: Theme.of(context).textTheme.display1,
         ),
+        Icon(FontAwesome.magic),
       ],
     );
   }
