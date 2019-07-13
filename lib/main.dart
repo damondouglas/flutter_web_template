@@ -109,13 +109,13 @@ class CounterLabel extends StatelessWidget {
       mainAxisAlignment: MainAxisAlignment.center,
       children: <Widget>[
         const Text(
-          'You have pushed the button this many times:',
+          'You have pushed this button way too many times.  Look:',
         ),
         Text(
           '${counter.count}',
           style: Theme.of(context).textTheme.display1,
         ),
-        Icon(FontAwesome.magic),
+        Icon(FontAwesome.award),
       ],
     );
   }
